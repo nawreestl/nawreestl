@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI Assistant**
 
-- 📫 How to reach me **📧 tlilinawres207@gmail.com 🔗 LinkedIn**
+- 📫 How to reach me **📧 tlilinawres207@gmail.com 🔗[ LinkedIn](https://www.linkedin.com/in/nawres-tlili/)**
 
 - ⚡ Fun fact **I think I’m funny, but my code has a better sense of humor 😄**
 
