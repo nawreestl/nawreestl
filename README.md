@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nawres tlili</h1>
-<h3 align="center">"Just a girl who codes — data scientist 🇹🇳💻"</h3>
+<h3 align="center">"Just a girl who codes — Data Analyst & Junior Data Scientist 🇹🇳💻"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawreestl&label=Profile%20views&color=0e75b6&style=flat" alt="nawreestl" /> </p>
 
